@@ -1,1 +1,1 @@
-bucket_name = "dev-dbvsk-s3-bucket"
+bucket_name = "dev1-dbvsk-s3-bucket"
